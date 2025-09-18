@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/3mcXjCw/banner-placeholder.png" alt="Profile Banner" width="100%" />
+<p align="center"
+   ![Image Alt] (https://github.com/dicksonkay/dicksonkay/blob/1a856fbbdcd49b128450edce5700b40e47d4016d/Dickson.jpg )
 </p>
 
 <h1 align="center">Hi 👋, I'm Dickson Kayitare </h1>
