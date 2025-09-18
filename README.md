@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center"
-![Banner](https://github.com/<your-username>/<dicksonkay>/blob/main/dickson.png?raw=true)
+<img src="https://raw.githubusercontent.com/dicksonkay/profilebanner/main/images/Dickson.png" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dickson Kayitare </h1>
